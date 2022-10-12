@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chisom
-- 👀 I’m interested in both data analytics and software engineering
-- 🌱 I’m currently learning data visualisation technigues using Tableau 
-- 💞️ I’m looking to collaborate on data-related problems while I build my skill in software engineering
+- 👀 I’m interested in data analytics and science
+- 🌱 I’m currently a Google certified data analyst 
+- 💞️ I’m looking to collaborate on data-related problems to build my skillset and experience
 - 📫 You can reach me via email: chisomaustine@gmail.com
 
 <!---
